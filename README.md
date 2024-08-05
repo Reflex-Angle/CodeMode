@@ -1,10 +1,3 @@
-# CodeMode
-In code mode.
-
-# My Repository
-This repository is pretty self-explanatory: I'm in code mode.
-When I want to create a project and code off, this repository is where it will go.
-
 # Project Playing XI (Prototype)
 Starting off the repository, is my project "Playing XI" up for evaluation as my CSE project.
 
