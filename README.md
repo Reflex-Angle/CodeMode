@@ -15,29 +15,29 @@ The program also allows the user to update the records of any player and then re
 #
 The code factors in several aspects (based on cricket in real life) besides straightforward statistics:
   
-  -Younger players are preferred as they have more potential.
+  - Younger players are preferred as they have more potential.
   
-  -Last 5 match performances are given additional weightage to evaluate current form.
+  - Last 5 match performances are given additional weightage to evaluate current form.
   
-  -Average and Strike Rate are weighted systemmatically for the players based on their position in the batting order.
+  - Average and Strike Rate are weighted systemmatically for the players based on their position in the batting order.
   
-  -Number of Man of the Match awards won by the player is taken into consideration to add to the player's 'match-winning' capability.
+  - Number of Man of the Match awards won by the player is taken into consideration to add to the player's 'match-winning' capability.
   
-  -Allrounders' values are estimated aggregating the bowling and batting strength they bring to the game.
+  - Allrounders' values are estimated aggregating the bowling and batting strength they bring to the game.
 
 #
 This project is only the prototype and the source code only involves the fundamentals. This code employs the concepts in my CSE course for object-oriented programming such as inheritance, polymorphism and switch case.
 
 The project will later include several updates. Some include: 
   
-  -Reading player records from imported files rather than entering each detail.
+  - Reading player records from imported files rather than entering each detail.
   
-  -Accounting for left-right batting combination advantage.
+  - Accounting for left-right batting combination advantage.
   
-  -Includung the advantageous ratio of pace to spin bowling based on the field conditions.
+  - Includung the advantageous ratio of pace to spin bowling based on the field conditions.
   
-  -Factoring in fielding proficiency.
+  - Factoring in fielding proficiency.
   
-  -Changing the ideal 5-2-4 format if required based on the pitch conditions and the opposition.
+  - Changing the ideal 5-2-4 format if required based on the pitch conditions and the opposition.
   
 This project when launched after the updates, could generate the best playing XI instantly just off of records and provide a great assist to selectors.
